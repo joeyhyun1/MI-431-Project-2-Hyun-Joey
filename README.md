@@ -9,13 +9,13 @@
 
 ** What was/were your starting tutorial(s)? **
 > &nbsp;
-><i>(answer here)</i>   
+><i>[(answer here)](https://outscal.com/blog/mastering-double-jump-in-unity)</i>   
 > &nbsp;
 
 
 ** What did you do in your Research Phase? **
 > &nbsp;
-><i>(answer here)</i>   
+><i>During the research phase I did more research on how a player controller works and how to implement a double jump and dash feature.</i>   
 > &nbsp;
 
 
