@@ -9,7 +9,7 @@
 
 ** What was/were your starting tutorial(s)? **
 > &nbsp;
-><i>[(answer here)](https://outscal.com/blog/mastering-double-jump-in-unity)</i>   
+><i>(https://outscal.com/blog/mastering-double-jump-in-unity)</i>   
 > &nbsp;
 
 
