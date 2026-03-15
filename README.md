@@ -65,7 +65,7 @@ Did you get help from any additional online websites, videos, or tutorials?  (li
 
 What trouble did you have with this project?
 > &nbsp;
-><i>Some of the trouble I had with this project was making the physics feel realistic enough for me to be happy with. I made the project gravity -30 which seemed to do the trick however, this seems like an easy workaround and not a real workaround as this affects the entire project and not just the player character. Another thing I had an issue with is the player getting stuck on the side of ground platforms. I am still not sure why this occurs but will try and fix this in my freetime.</i>   
+><i>Some of the trouble I had with this project was making the physics feel realistic enough for me to be happy with. I made the project gravity -30 which seemed to do the trick however, this seems like an easy workaround and not a real workaround as this affects the entire project and not just the player character. Another thing I had an issue with is the player getting stuck on the side of ground platforms. I am still not sure why this occurs but will try and fix this in my freetime. Another issue that I had when I first started is realizing the the player controller I had made was a bit messy and didn't utilize an enum based approach which made the coding way easier. So I had to sort of refacter the code that I had originally and make it use this enum based approach.</i>   
 > &nbsp;
 
 
