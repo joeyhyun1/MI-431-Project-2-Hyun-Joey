@@ -22,7 +22,7 @@
 ** What did you do in your Creative Phase? **
 *** (leave blank during Research Phase) ***
 > &nbsp;
-><i>(answer here)</i>   
+><i>During the creative phase I made a slope mechanic that controls the speed of the player either making the speed faster or slower depending on the angle of the slope. I also implemented a wallrun mechanic that allows the player to move from wall to wall jumping and running across. </i>   
 > &nbsp;
 
 
@@ -38,7 +38,9 @@
 ** Did you receive help from anyone outside this class?  (list their names and what they helped with) **
 > &nbsp;
 ><ul>
-><li>(one name/listing per line)</li>
+><li>Yes, I took heavy insperation from this video on your tube
+https://www.youtube.com/watch?v=gNt9wBOrQO4
+</li>
 ><li>(one name/listing per line)</li>
 ><li>(one name/listing per line)</li>
 ></ul>   
@@ -63,7 +65,7 @@ Did you get help from any additional online websites, videos, or tutorials?  (li
 
 What trouble did you have with this project?
 > &nbsp;
-><i>(answer here)</i>   
+><i>Some of the trouble I had with this project was making the physics feel realistic enough for me to be happy with. I made the project gravity -30 which seemed to do the trick however, this seems like an easy workaround and not a real workaround as this affects the entire project and not just the player character. Another thing I had an issue with is the player getting stuck on the side of ground platforms. I am still not sure why this occurs but will try and fix this in my freetime.</i>   
 > &nbsp;
 
 
